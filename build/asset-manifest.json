@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-invoice-generator/static/css/main.bea38237.chunk.css",
+    "main.js": "/react-invoice-generator/static/js/main.9e4fa471.chunk.js",
+    "main.js.map": "/react-invoice-generator/static/js/main.9e4fa471.chunk.js.map",
+    "runtime-main.js": "/react-invoice-generator/static/js/runtime-main.33c79cdc.js",
+    "runtime-main.js.map": "/react-invoice-generator/static/js/runtime-main.33c79cdc.js.map",
+    "static/js/2.393f57bd.chunk.js": "/react-invoice-generator/static/js/2.393f57bd.chunk.js",
+    "static/js/2.393f57bd.chunk.js.map": "/react-invoice-generator/static/js/2.393f57bd.chunk.js.map",
+    "index.html": "/react-invoice-generator/index.html",
+    "precache-manifest.f48b540f5142737db33aabedb1bcb3d7.js": "/react-invoice-generator/precache-manifest.f48b540f5142737db33aabedb1bcb3d7.js",
+    "service-worker.js": "/react-invoice-generator/service-worker.js",
+    "static/css/main.bea38237.chunk.css.map": "/react-invoice-generator/static/css/main.bea38237.chunk.css.map",
+    "static/js/2.393f57bd.chunk.js.LICENSE.txt": "/react-invoice-generator/static/js/2.393f57bd.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/react-invoice-generator/static/media/download.5af81432.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33c79cdc.js",
+    "static/js/2.393f57bd.chunk.js",
+    "static/css/main.bea38237.chunk.css",
+    "static/js/main.9e4fa471.chunk.js"
+  ]
+}
